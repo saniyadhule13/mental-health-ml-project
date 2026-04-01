@@ -62,8 +62,6 @@ streamlit run app.py
 
 The dataset used in this project contains student-related attributes such as academic pressure, study habits, and mental health indicators.
 
-(Note: Dataset is not uploaded due to size/privacy.)
-
 ---
 
 ## 📌 Future Improvements
