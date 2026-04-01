@@ -22,20 +22,7 @@ The goal of this project is to analyze student-related data and build a classifi
   * Random Forest
 * Model Evaluation & Accuracy Comparison
 * Streamlit Web Application for Prediction
-
----
-
-## 📂 Project Structure
-
-```bash
-app.py
-mental_health_bundle.pkl
-requirements.txt
-README.md
-.gitignore
-Mental_health_clean.ipynb
-```
-
+  
 ---
 
 ## 🛠️ Technologies Used
